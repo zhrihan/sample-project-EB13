@@ -1,3 +1,4 @@
 # sample-project-EB13
 # Hello guys 
-# wwwwwwwwwwwwwwwww
+# this is my first project
+# its cool
